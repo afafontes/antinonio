@@ -24,6 +24,7 @@
 ||dinheirovivo.pt^$inline-script,important
 ||radiocomercial.iol.pt^$inline-script,important
 ||maisfutebol.iol.pt^$inline-script,important
+||tvi.iol.pt^$inline-script,important
 !||tvi24.iol.pt^$inline-script,important
 
 ! -------------------------------------------------- !
